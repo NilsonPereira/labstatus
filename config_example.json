@@ -1,0 +1,18 @@
+{
+    "mqtt": {
+        "host": "mqtt://localhost",
+        "port": 188,
+        "protocol": "mqtt",
+        "username": "username",
+        "password": "password"
+    },
+    "tango": {
+        "device": "test/Clock/1",
+        "attributes": [
+            "attribute_01",
+            "attribute_02"
+        ]   
+    }
+}
+
+
