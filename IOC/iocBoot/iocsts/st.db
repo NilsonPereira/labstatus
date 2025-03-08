@@ -1,0 +1,7 @@
+record(ai, "labstatus01/nmdev/labstatus/progress"){}
+record(ai, "labstatus01/nmdev/labstatus/var01"){}
+record(ai, "labstatus01/nmdev/labstatus/var02"){}
+record(stringin, "labstatus01/nmdev/labstatus/title"){}
+record(stringin, "labstatus01/nmdev/labstatus/var01_label"){}
+record(stringin, "labstatus01/nmdev/labstatus/var02_label"){}
+record(stringin, "labstatus01/nmdev/labstatus/varstatus"){}
