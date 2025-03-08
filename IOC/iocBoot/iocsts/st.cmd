@@ -15,7 +15,8 @@ sts_registerRecordDeviceDriver pdbbase
 #dbLoadRecords("db/xxx.db","user=nil")
 
 cd "${TOP}/iocBoot/${IOC}"
-dbLoadRecords("st.db")
+dbLoadRecords("st.db", "N=01")
+dbLoadRecords("st.db", "N=02")
 
 iocInit
 
